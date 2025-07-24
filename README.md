@@ -5,6 +5,9 @@ UX design case study for a mobile mental health app focused on accessibility, en
 
 **MoodLift** is a mobile app concept designed to support mental wellness through engaging, playful activities and accessible user experiences. Created as part of a UX design module, this case study showcases the full design process from research to prototyping.
 
+## 🎨 Figma Designs 
+https://www.figma.com/design/2wCpGGwhMxavcEP6CmfxPW/MoodLift--Mental-Health-app?t=KeDRk954Q8oMmjHt-1
+
 ## 🌟 Project Highlights
 - Targeted toward residents of the West Midlands to improve emotional wellbeing
 - Combines **mindfulness tools**, **gamified features**, and **mood tracking**
